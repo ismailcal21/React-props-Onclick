@@ -1,3 +1,10 @@
+# Gif Onclick Props
+
+<h1 align="center">Gif Ornegimiz</h1>
+<p><img  align="right" src=https://github.com/ismailcal21/React-props-Onclick/blob/main/gif.gif" width="500" height="500"/></p>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
