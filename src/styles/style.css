@@ -1,0 +1,17 @@
+.primary {
+  background-color: blue;
+  padding: 10px;
+  margin: 10px;
+  color: #fff;
+}
+.secondary {
+  background-color: #ff4000;
+  padding: 10px;
+  margin: 10px;
+}
+
+.third {
+  background-color: rgb(0, 255, 0);
+  padding: 10px;
+  margin: 10px;
+}
